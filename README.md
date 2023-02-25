@@ -1,4 +1,4 @@
-# Style-Transfer
+# Style Transfer
 
 The goal of this notebook is to compare 2 different algorithm to implement style transfer, which are A Neural Algorithm of Artistic Style and AdaIN.
 
